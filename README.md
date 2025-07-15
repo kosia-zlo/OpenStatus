@@ -30,7 +30,7 @@
 
 ---
 
-⚠ **Внимание!** Телеграмм бот реализует функции скрипта client.sh версии от [19.05.2025](https://github.com/GubernievS/AntiZapret-VPN/blob/8b2dfbc1b4fb13daf5a5b337b8d341ccabb303e6/setup/root/antizapret/client.sh). 
+#⚠ **Внимание!** Телеграмм бот реализует функции скрипта client.sh версии от [19.05.2025](https://github.com/GubernievS/AntiZapret-VPN/blob/8b2dfbc1b4fb13daf5a5b337b8d341ccabb303e6/setup/root/antizapret/client.sh). 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/072ee8de-cbc5-4e73-b90a-2d671abd2bbf">
@@ -73,7 +73,7 @@
 1. Для установки сервиса выполните следующую команду:
   
     ```bash
-    bash -c "$(curl -sL https://raw.githubusercontent.com/TheMurmabis/StatusOpenVPN/main/scripts/setup.sh)"
+    bash -c "$(curl -sL [https://github.com/kosia-zlo/OpenStatus/blob/main/scripts/setup.sh]"
     ```
 
 2. В процессе установки будет предложено изменить порт по умолчанию **[1234]**. Вы можете ввести новый порт, если хотите, или оставить его без изменений.
