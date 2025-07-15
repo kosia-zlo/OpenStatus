@@ -73,7 +73,7 @@
 1. Для установки сервиса выполните следующую команду:
   
     ```bash
-    bash -c "$(curl -sL [https://github.com/kosia-zlo/OpenStatus/blob/main/scripts/setup.sh]"
+    bash -c "$(curl -sL [https://github.com/kosia-zlo/OpenStatus/blob/main/scripts/setup.sh])"
     ```
 
 2. В процессе установки будет предложено изменить порт по умолчанию **[1234]**. Вы можете ввести новый порт, если хотите, или оставить его без изменений.
